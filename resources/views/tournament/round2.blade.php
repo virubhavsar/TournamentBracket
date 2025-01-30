@@ -8,7 +8,7 @@
     @endforeach
 
 
-    <h4 class="text-center mt-3">Wildcard Teams Added</h4>
+    <h5 class="text-center mt-3">Wildcard Entry</h5>
     <input type="text" value="Wild Card 1" class="form-control my-2" readonly>
     <input type="text" value="Wild Card 2" class="form-control my-2" readonly>
 
