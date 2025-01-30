@@ -1,4 +1,5 @@
 # Tournament Bracket Application
+**This project is built using Service-Based Architecture and Request-Based Architecture principles**
 
 ### Installation Steps
 
@@ -47,3 +48,22 @@
    ```
 ### Accessing the Application
 - Visit `http://localhost:8000/` in your browser.
+
+
+### Folder Structure
+
+```bash
+app/
+├── Http/
+│   ├── Controllers/
+│   │   └── TournamentController.php
+│   ├── Requests/
+│   │   └── StoreTeamsRequest.php  /
+│   └── Middleware/
+├── Services/
+│   └── TournamentService.php 
+├── Models/
+│   └── Team.php
+└── ...
+
+```
