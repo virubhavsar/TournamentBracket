@@ -1,4 +1,4 @@
-# Tournament Application
+# Tournament Bracket Application
 
 ### Installation Steps
 
